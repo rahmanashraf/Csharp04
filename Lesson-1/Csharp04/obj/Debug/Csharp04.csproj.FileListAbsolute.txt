@@ -1,0 +1,6 @@
+C:\Users\Mina\source\repos\Csharp04\bin\Debug\Csharp04.exe.config
+C:\Users\Mina\source\repos\Csharp04\bin\Debug\Csharp04.exe
+C:\Users\Mina\source\repos\Csharp04\bin\Debug\Csharp04.pdb
+C:\Users\Mina\source\repos\Csharp04\obj\Debug\Csharp04.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\Csharp04\obj\Debug\Csharp04.exe
+C:\Users\Mina\source\repos\Csharp04\obj\Debug\Csharp04.pdb
