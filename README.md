@@ -8,5 +8,6 @@
 <a href="https://www.tutorialspoint.com/csharp/csharp_data_types.htm"> Data Types</a> <br>
 <a href="https://www.youtube.com/watch?v=Dcdd6SfUUKA"> Stack Value Type</a> <br>
 <a href="https://www.youtube.com/watch?v=BovQ9a3TpuI">Heap Reference Type</a> <br>
+<a href="https://www.educba.com/stack-vs-heap-memory/">Stack vs Heap Memory</a> <br>
 Task! <br/>
 Her kes ozu bir cs file yaradib build etmelidir commandda
