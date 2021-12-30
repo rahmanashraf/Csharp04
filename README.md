@@ -35,7 +35,7 @@ meselen: 5 daxil edilib. 1*5=5,2*5=10...sonda 5+10+..
 <a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
 <a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
 <h4>Task</h4> 
-Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlardan istifade etmeyin
+Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlardan istifade etmeyin <br>
 1)String Substring methodunun algorithmini qurun; <br>
 2)Reverse methodunun algoritmi qurun : input: hello, output: olleh <br>
 3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur)  <br>
