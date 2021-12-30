@@ -34,3 +34,15 @@ meselen: 5 daxil edilib. 1*5=5,2*5=10...sonda 5+10+..
 <a href="https://www.javatpoint.com/c-sharp-strings">String Methods 2 </a> <br>
 <a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
 <a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
+<h4>Task</h4> 
+Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlardan istifade etmeyin
+1)String Substring methodunun algorithmini qurun; <br>
+2)Reverse methodunun algoritmi qurun : input: hello, output: olleh <br>
+3)Verilmis sozun palindrome oldugunu yoxlayan algoritm mes:input: ana, output: ana (soldan ve sagdan eyni oxunur)  <br>
+4)Remove duplikat olan herfleri silen algoritmini yazin input: csharpcorner, output: csharpone c<br>
+5)5 ədədin orta qiymətinin tapılması algoritmi qurun; <br>
+6)Düzbucaqlının sahə və perimetrini tapan algoritmi qurun; <br>
+7)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
+8)1 le verilmis eded arasinda kvadratlari cemi  algoritmini qurun; <br>
+9)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
+<b>Ugurlar! </b> :) <br>
