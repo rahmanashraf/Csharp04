@@ -25,3 +25,12 @@ Ref ve out vasitesile yazin. Daxil edilmis edenin vurma cedveli cap edildikden s
 meselen: 5 daxil edilib. 1*5=5,2*5=10...sonda 5+10+..
 <a href=""></a>
 <a href=""></a>
+
+<h1> Lesson-3 [29 dekabr 2021] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.c-sharpcorner.com/UploadFile/0c1bb2/method-oveloading-and-overriding-C-Sharp/">Method Overloading </a> burdan Overloading-e qeder oxuyun <br>
+<a href="https://www.c-sharpcorner.com/blogs/some-string-functions-of-c-sharp">String Methods </a> <br>
+<a href="https://www.javatpoint.com/c-sharp-strings">String Methods 2 </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/array-csharp">Arrays </a> <br>
+<a href="https://www.tutorialsteacher.com/articles/remove-duplicate-values-from-array-in-csharp">Duplicate values </a> <br>
