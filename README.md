@@ -45,4 +45,5 @@ Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlarda
 7)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
 8)1 le verilmis eded arasinda kvadratlari cemi  algoritmini qurun; <br>
 9)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
+Quize hazirlasin <br>
 <b>Ugurlar! </b> :) <br>
