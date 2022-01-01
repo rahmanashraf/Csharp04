@@ -10,7 +10,13 @@
  - [Fatime Qurbanli]()
  - [Qurbani Emrahov]()
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
-
+ - 
+<h1> Menbeler </h1>
+<a href="https://www.tutorialspoint.com/csharp/index.htm">tutorialspoint</a> <br>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/">microsoft</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp">tutorialsteacher</a> <br>
+<a href="https://www.c-sharpcorner.com/">c-sharpcorner</a> <br>
+<a href="https://metanit.com/sharp/tutorial/2.8.php">metanit</a> <br>
 
 <h1> Lesson-1 [22 dekabr 2021] </h1>
 <hr>
