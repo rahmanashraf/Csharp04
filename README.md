@@ -2,7 +2,7 @@
 <a href="https://drive.google.com/drive/folders/1PriUyMi_sax7NQHr31TTMDn-a7I3pmVE">Drive Link(Video dersler)</a> <br>
 
 ## Tələbələr
- - [Rehman Esrafov](https://github.com/rahmanashraf/PragmatechCsharpProject)
+ - [Rahman Ashrafov](https://github.com/rahmanashraf/PragmatechCsharpProject)
  - [Aysel Mustafayeva](https://github.com/AyselMustafayeva/PragmatechCsharpProject.git)
  - [Elmar Memmedov](https://github.com/elmar049/PragmatechCsharpProject)
  - [Ravi Hemidov](https://github.com/RaviHamidov/PragmatechCsharpProject)
