@@ -1,4 +1,6 @@
 # Csharp04
+<a href="https://drive.google.com/drive/folders/1PriUyMi_sax7NQHr31TTMDn-a7I3pmVE">Drive Link(Video dersler)</a> <br>
+
 <h1> Lesson-1 [22 dekabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
