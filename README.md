@@ -1,6 +1,17 @@
 # Csharp04
 <a href="https://drive.google.com/drive/folders/1PriUyMi_sax7NQHr31TTMDn-a7I3pmVE">Drive Link(Video dersler)</a> <br>
 
+## Tələbələr
+ - [Rehman Esrafov](https://github.com/rahmanashraf/PragmatechCsharpProject)
+ - [Aysel Mustafayeva](https://github.com/AyselMustafayeva/PragmatechCsharpProject.git)
+ - [Elmar Memmedov](https://github.com/elmar049/PragmatechCsharpProject)
+ - [Ravi Hemidov](https://github.com/RaviHamidov/PragmatechCsharpProject)
+ - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
+ - [Fatime Qurbanli]()
+ - [Qurbani Emrahov]()
+ - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
+
+
 <h1> Lesson-1 [22 dekabr 2021] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
