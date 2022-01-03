@@ -11,7 +11,7 @@
  - [Qurbani Emrahov]()
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
  - 
-<h1> Menbeler </h1>
+<h1> Mənbələr </h1>
 <a href="https://www.tutorialspoint.com/csharp/index.htm">tutorialspoint</a> <br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">microsoft</a> <br>
 <a href="https://www.tutorialsteacher.com/csharp">tutorialsteacher</a> <br>
@@ -64,5 +64,6 @@ Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlarda
 7)Daxil edilən ədədin vurma cədvəlini yazdiran algoritmi qurun; <br>
 8)1 le verilmis eded arasinda kvadratlari cemi  algoritmini qurun; <br>
 9)0 la verilmiş ədəd arasındaki ədədlərin hasili ilə cəminin fərqini hesablayan algoritmi qurun; <br>
+10) <b>Optional</b> Sozler arasindaki bosluqlari silen bir method yazmaq. Meselen: "salam   menim   adim   Minadir" <br>
 Quize hazirlasin <br>
 <b>Ugurlar! </b> :) <br>
