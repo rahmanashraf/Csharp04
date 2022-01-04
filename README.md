@@ -8,7 +8,7 @@
  - [Ravi Hemidov](https://github.com/RaviHamidov/PragmatechCsharpProject)
  - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
  - [Fatime Qurbanli]
- - [Qurbani Emrahov]
+ - [Qurbani Emrahov](https://github.com/qurbaniemrah/pragmatechCsharpProject.git)
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
  
 <h1> Mənbələr </h1>
