@@ -7,10 +7,10 @@
  - [Elmar Memmedov](https://github.com/elmar049/PragmatechCsharpProject)
  - [Ravi Hemidov](https://github.com/RaviHamidov/PragmatechCsharpProject)
  - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
- - [Fatime Qurbanli]()
- - [Qurbani Emrahov]()
+ - [Fatime Qurbanli]
+ - [Qurbani Emrahov]
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
- - 
+ 
 <h1> Mənbələr </h1>
 <a href="https://www.tutorialspoint.com/csharp/index.htm">tutorialspoint</a> <br>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">microsoft</a> <br>
