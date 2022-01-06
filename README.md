@@ -74,7 +74,7 @@ Quize hazirlasin <br>
 <a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
 <a href="https://www.c-sharpcorner.com/blogs/class-and-object-in-c-sharp"> Class And Object </a> <br>
 Task  <br>
-1.bool a=(3+4*2==2*3)&&(true+false/2) ifadəsinin nəticəsi nədir və səbəbini qeyd edin..  <br>
+1.bool a=(3+4*2==2*3)&&(true+false/2) ifadəsinin nəticəsi nədir və səbəbini qeyd edin.. (xahis olunur kodu vs-da yazmayin dusunun!) <br>
 2.Verilən 4 rəqəmli ədədin rəqəmlərinin cəmini tapan proqram yazın (Nümunə : int a=1298 Nəticə : 1+2+9+8=20)  <br>
 3.Verilən ədədin rəqəmləri arasında olan tək rəqəmləri ekranda göstərən proqram yazın (Nümunə : int a=1298 Nəticə : 1,9)  <br>
 4.Console.Readline vasitesile ilə istifadəçinin yaşını daxil etməsini istəyin.  <br>
