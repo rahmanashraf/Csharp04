@@ -67,3 +67,28 @@ Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlarda
 10) <b>Optional</b> Sozler arasindaki bosluqlari silen bir method yazmaq. Meselen: "salam   menim   adim   Minadir" <br>
 Quize hazirlasin <br>
 <b>Ugurlar! </b> :) <br>
+
+<h1> Lesson-3 [05 yanvar 2022] </h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
+<a href="https://www.c-sharpcorner.com/blogs/class-and-object-in-c-sharp"> Class And Object </a> <br>
+Task  <br>
+1.bool a=(3+4*2==2*3)&&(true+false/2) ifadəsinin nəticəsi nədir və səbəbini qeyd edin..  <br>
+2.Verilən 4 rəqəmli ədədin rəqəmlərinin cəmini tapan proqram yazın (Nümunə : int a=1298 Nəticə : 1+2+9+8=20)  <br>
+3.Verilən ədədin rəqəmləri arasında olan tək rəqəmləri ekranda göstərən proqram yazın (Nümunə : int a=1298 Nəticə : 1,9)  <br>
+4.Console.Readline vasitesile ilə istifadəçinin yaşını daxil etməsini istəyin.  <br>
+İstifadəçinin yaşı 30-dan kiçikdirsə istifadəçinin yaşının kvadratını ekrana çap edin  <br>
+Yaş 30-40 aralığındadırsa daxil edilən ədədin son rəqəmini ekrana çap edin  <br>
+Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil etməmisiniz" yazdırın  <br>
+5. ay dəyəri daxil edildiyi zaman onun necə gun və hansi fesil olduğunu edən method yazın  <br>
+6. Arrayin en boyuk elementini tapan methiod  <br>
+7. Arrayin en kicik elementini tapan methiod  <br>
+8.Verilən nums=[1,2,3,6,7,8,23,78,34,12] <br>
+8.1 Tək ədədlərin cəmini tapan metod yazın <br>
+8.2  Daxilində 3 rəqəmi olan neçə ədəd olduğunu ekrana çap edən metod yazın <br>
+8.3 Tək ədədləri ayıraraq ayrıca bir massivə yığan metod yazın <br>
+8.4 Ədədlərin böyükdən kiçiyə doğru sıralayın <br>
+9. 2 ayrı arreyi birləşdirmək. <br>
+10.user-ın daxil etdiyi sözün sonuncu hərfini qaytarmaq. <br>
+11. Verilen sozun ve ya arrayin Lengthi tapan method yazmaq <br>
