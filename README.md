@@ -68,7 +68,7 @@ Asagida qeyd etdiyim algoritimleri ozunuz yazin, c#da hazir yazilmis methodlarda
 Quize hazirlasin <br>
 <b>Ugurlar! </b> :) <br>
 
-<h1> Lesson-3 [05 yanvar 2022] </h1>
+<h1> Lesson-4 [05 yanvar 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
