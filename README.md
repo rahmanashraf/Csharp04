@@ -70,14 +70,14 @@ Quize hazirlasin <br>
 
 <h1> Lesson-4 [05 yanvar 2022] </h1>
 <hr>
-<a href="https://www.classtime.com/share/65e2947f-6ebc-43bf-af6b-46e8ccd41d6d?token=7c38935786993316ccfb72648e9cb87e7ef67ef38db30205a303c738eeee8b91">Quiz </a> <br>
-<p>Aysel Mustafayeva 21</p> <br>
-<p>Elmar Mammadov  17</p> <br>
-<p>Nurlan 2</p> <br>
-<p>Qurbani  8</p> <br>
-<p>Rahman Ashrafov 18</p> <br>
-<p>Ravi 8</p> <br>
-<p>Vesi 16</p> <br>
+<a href="https://www.classtime.com/share/65e2947f-6ebc-43bf-af6b-46e8ccd41d6d?token=7c38935786993316ccfb72648e9cb87e7ef67ef38db30205a303c738eeee8b91">Quiz neticesi </a> <br>
+<p>Aysel Mustafayeva 21</p> 
+<p>Elmar Mammadov  17</p>
+<p>Nurlan 2</p> 
+<p>Qurbani  8</p> 
+<p>Rahman Ashrafov 18</p>
+<p>Ravi 8</p> 
+<p>Vesi 16</p>
 
 <h4>Oxumalı mövzular</h4>
 <a href="https://www.c-sharpcorner.com/UploadFile/c63ec5/use-params-keyword-in-C-Sharp/">Use Params Keyword </a> <br>
