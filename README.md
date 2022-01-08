@@ -17,6 +17,7 @@
 <a href="https://www.tutorialsteacher.com/csharp">tutorialsteacher</a> <br>
 <a href="https://www.c-sharpcorner.com/">c-sharpcorner</a> <br>
 <a href="https://metanit.com/sharp/tutorial/2.8.php">metanit</a> <br>
+<a href="https://www.c-sharpcorner.com/UploadFile/puranindia/C-Sharp-interview-questions/">C# Interview Questions</a> <br>
 
 <h1> Lesson-1 [22 dekabr 2021] </h1>
 <hr>
