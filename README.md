@@ -102,3 +102,15 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 9. 2 ayrı arreyi birləşdirmək. <br>
 10.user-ın daxil etdiyi sözün sonuncu hərfini qaytarmaq. <br>
 11. Verilen sozun ve ya arrayin Lengthi tapan method yazmaq <br>
+
+<h1> Lesson-5 [08 yanvar 2022] </h1>
+<hr>
+Task
+Student class-i yaradin:
+Fullname
+GroupNo
+Age
+Student classi ucun GetBirthYear() metodunu yazin.Bu metod Studentin dogum ilini geri qaytarir
+Student Arrayi yaradin.
+Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(2ci parametr kimi array daxil edeceksiz)
+ps:Student yaradilarken butun deyerlerin verilmesi mecburidir
