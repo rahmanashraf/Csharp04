@@ -105,12 +105,12 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 
 <h1> Lesson-5 [08 yanvar 2022] </h1>
 <hr>
-Task
-Student class-i yaradin:
-Fullname
-GroupNo
-Age
-Student classi ucun GetBirthYear() metodunu yazin.Bu metod Studentin dogum ilini geri qaytarir
-Student Arrayi yaradin.
-Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(2ci parametr kimi array daxil edeceksiz)
-ps:Student yaradilarken butun deyerlerin verilmesi mecburidir
+Task <br>
+Student class-i yaradin:<br>
+Fullname<br>
+GroupNo<br>
+Age<br>
+Student classi ucun GetBirthYear() metodunu yazin.Bu metod Studentin dogum ilini geri qaytarir<br>
+Student Arrayi yaradin.<br>
+Qrup nomresini daxil etmekle bir qrupda nece telebenin oxudugunu check eden method yazin.(2ci parametr kimi array daxil edeceksiz)<br>
+ps:Student yaradilarken butun deyerlerin verilmesi mecburidir<br>
