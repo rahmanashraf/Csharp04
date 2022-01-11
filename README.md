@@ -107,6 +107,7 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://minafrzli.medium.com/string-vs-stringbuilder-array-vs-linked-list-c-7aa7fb3a5416">String vs StringBuilder</a><br>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/constructors">Constructors</a><br>
 Task <br>
 Student class-i yaradin:<br>
 Fullname<br>
