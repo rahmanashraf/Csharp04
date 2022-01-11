@@ -105,6 +105,8 @@ Yaş 0-dan kiçik vəya 100-dən böyükdürsə ekrana "Düzgün məlumat daxil 
 
 <h1> Lesson-5 [08 yanvar 2022] </h1>
 <hr>
+<h4>Oxumalı mövzular</h4>
+<a href="https://minafrzli.medium.com/string-vs-stringbuilder-array-vs-linked-list-c-7aa7fb3a5416">String vs StringBuilder</a><br>
 Task <br>
 Student class-i yaradin:<br>
 Fullname<br>
