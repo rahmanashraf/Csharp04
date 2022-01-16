@@ -139,7 +139,7 @@ console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte 
 
 1.Constructorda name ve password qebul edilsin
 
-<h1> Lesson-6 [12 yanvar 2022] </h1>
+<h1> Lesson-7 [15 yanvar 2022] </h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-arraylist">C# - ArrayList </a> <br>
