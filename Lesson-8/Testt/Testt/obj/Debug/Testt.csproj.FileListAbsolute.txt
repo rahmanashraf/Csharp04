@@ -1,0 +1,8 @@
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\bin\Debug\Testt.exe.config
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\bin\Debug\Testt.exe
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\bin\Debug\Testt.pdb
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\obj\Debug\Testt.csproj.AssemblyReference.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\obj\Debug\Testt.csproj.SuggestedBindingRedirects.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\obj\Debug\Testt.csproj.CoreCompileInputs.cache
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\obj\Debug\Testt.exe
+C:\Users\Minaye.Ferzeliyeva\source\repos\Testt\Testt\obj\Debug\Testt.pdb
