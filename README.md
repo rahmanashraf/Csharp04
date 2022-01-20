@@ -144,3 +144,20 @@ console readlinedan aldiginiz datani bu methodlarda yoxlayib sonra yeni obyekte 
 <h4>Oxumalı mövzular</h4>
 <a href="https://www.tutorialsteacher.com/csharp/csharp-arraylist">C# - ArrayList </a> <br>
 Quize hazirliq
+
+
+<h1> Lesson-8 [19 yanvar 2022] </h1>
+<hr>
+<a href="https://www.classtime.com/share/96be60b5-557c-4e71-91a6-d7eb6112f3fc?token=d68027a70b952a127148e56fbd2f14a78ab9416fe7274f87c1f3bea32f5aaf4f">Quiz neticeleri </a>
+<p>Aysel 7 </p>
+<p>Elmar 7 </p>
+<p>Ravi 3 </p>
+<p>Nurlan 2 </p>
+<p>Qurbani 1 </p>
+<p>Rahman 5 </p>
+<p>Vesile 6 </p>
+Task <br>
+Asagidaki memberlerden ibaret Book class-i yaradirsiniz:<br>
+Name PageCount<br>
+ps: name ve count deyerleri teyin olunmammis Book obyekti yaranmamalidir. PageCount deyeri 10-dan kicik ola bilmez ve Name deyerinin uzunlugu 3-den qisa ola bilmez Main hissesinde 10 kitabliq Book arryi olsun.Kitab deyerleri console-dan daxil edilsin ve yaradilsin, array-e elave edilsin. Sonda arraydeki kitablarin Name ve PageCount deyerleri console penceresinde gosterilsin <br>
+Proyektin icra olunma prosesi: Layine run lunduqda consoleda Book yaratmaq ucun lazimli deyrleri istemelidi ve onun esasinda bir book obyekti yaranib book array-ine set olunmalidi ve bu proses 10 defe tekrarlanmalidir , cunki arrayimizin olcusu 10-dur. Ve yanlis melumat daxil etdiyimiz zaman bize daxil etdiyimiz deyerin dogru olmadigini console-a yazdirmali ve hemin deyeri yeniden daxil etmeyimizi istemelidir.(Misalcun book name ucun condole-dan daxil etdiyim deyerin uzunlugu 3-den qisa olarsa console-da Yanlis deyer daxil etdiyimi , kitab adinin 3den kicik ola bilmeyeceyini yazmalidir ve daha sonra menden yeniden kitab adi ucun deyer yazmagimi istemelidir ta ki dogru deyer daxil edilene qeder) <br>
