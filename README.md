@@ -161,3 +161,83 @@ Asagidaki memberlerden ibaret Book class-i yaradirsiniz:<br>
 Name PageCount<br>
 ps: name ve count deyerleri teyin olunmammis Book obyekti yaranmamalidir. PageCount deyeri 10-dan kicik ola bilmez ve Name deyerinin uzunlugu 3-den qisa ola bilmez Main hissesinde 10 kitabliq Book arryi olsun(Array.Resize la isleye bilsez ne gozel).Kitab deyerleri console-dan daxil edilsin ve yaradilsin, array-e elave edilsin. Sonda arraydeki kitablarin Name ve PageCount deyerleri console penceresinde gosterilsin <br>
 Proyektin icra olunma prosesi: Layine run lunduqda consoleda Book yaratmaq ucun lazimli deyrleri istemelidi ve onun esasinda bir book obyekti yaranib book array-ine set olunmalidi ve bu proses 10 defe tekrarlanmalidir , cunki arrayimizin olcusu 10-dur. Ve yanlis melumat daxil etdiyimiz zaman bize daxil etdiyimiz deyerin dogru olmadigini console-a yazdirmali ve hemin deyeri yeniden daxil etmeyimizi istemelidir.(Misalcun book name ucun condole-dan daxil etdiyim deyerin uzunlugu 3-den qisa olarsa console-da Yanlis deyer daxil etdiyimi , kitab adinin 3den kicik ola bilmeyeceyini yazmalidir ve daha sonra menden yeniden kitab adi ucun deyer yazmagimi istemelidir ta ki dogru deyer daxil edilene qeder) <br>
+
+
+<h1> Lesson-9 [22 yanvar 2022] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/c-generics-f061dfbd6d24"> Generics</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-list"> List</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-sortedlist">Sortedlist</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-dictionary">Dictionary </a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-hashtable">Hashtable</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-stack"> Stack</a> <br>
+<a href="https://www.tutorialsteacher.com/csharp/csharp-queue">Queue </a> <br>
+
+
+### 1) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) Key və value-su string tipində olan Dictionary yaradın.
+
+b) İstifadəçidən 10 dəfə iki söz yazılması istənilsin:
+
+b.1) Birinci söz ölkə adı.
+b.2) İkinci söz paytaxt adı.
+
+c) Daha sonra istifadəçi ölkə adı yazaraq daxil edilən list-dən paytaxt adını almalıdır. 
+
+d) Əgər istifadəçi ölkə adı əvəzinə "all" sözü daxil edilərsə, dictionary-də olan bütün ölkə-paytaxlar print edilsin.
+
+e) Nəticəni aldıqdan sonra yeni paytaxt axtarışı edilsin yoxsa proqram bitsin deyə istifadəçidən soruşulmalıdır və cavaba müvafiq əməliyyat baş verməlidir.
+
+Misal üçün:
+
+Proqram çalışarkən aşağıdakilər baş verməlidi:
+
+Əvvəl belə mesaj çıxır:
+"Hörmətli istifadəçi! Zəhmət olmasa ölkə adı qeyd edin."
+
+Daha sonra ölkə adını yazmaq istənilir.
+
+Daha sonra bu mesaj çıxır:
+"Hörmətli istifadəçi! Zəhmət olmasa ölkəyə aid paytaxt qeyd edin."
+
+Paytaxt adını yazmaq istənilir.
+
+Bütün bu proses 10 dəfə təkrarlanır və dictionary dolur. Daha sonra istifadəçidən bir ölkə adı yazmaq istənilir:
+
+"Hörmətli istifadəçi! Zəhmət olmasa paytaxtını tapmaq istədiyiniz ölkənin adını qeyd edin."
+
+İstifadəçi "Azərbaycan" yazarsa dictionary-də həmin key-ə görə search edib, ona uyğun value-nu, yəni "Bakı" sözünü qaytarıb, ekrana print etmək lazımdı.
+Əgər istifadəçi ölkə adı əvəzinə "all" sözü daxil edilərsə, dictionary-də olan bütün ölkə-paytaxlar print edilsin.
+
+Print etdikdən sonra soruşulur:
+"Yeni paytaxt axtarılsın? Y/N"
+
+İstifadəçi "Y" yazarsa yeni axtarış üçün ölkə adı istənilsin, "N" basarsa proqramdan çıxsın.
+
+
+### 2) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) string tipli Queue list-i yaradın.
+
+b) İçini müxtəlif mesajlarla doldurun.
+
+c) Əgər məlumat 10 item-dən çox olarsa, növbədə (queue-list) sonuncu olan elementi boşaldıb, yerinə yeni məlumatı salın.
+
+
+### 3) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) int tipində List yaradın. 
+
+b) İstifadəçi 10 müxtəlif ədədlərlə listi doldursun.
+
+c) Daha sonra list-in son 5 elementi ilə ilk 5 elementinin yerlərini dəyişdirin.
+
+
+### 4) Aşağıdaki tapşırığı yerinə yetirin:
+
+a) int tipli elə bir kolleksiya yaradın ki, içində bütün item-lər unique olsun (təkrarlanma olmasın) və sort edilmiş vəziyyətdə olsun.
+
+b) Daha sonra içini müxtəlif ədədlərlə doldurun. (Console-dan)
+
+c) Nəticəni ekrana çap edin.
