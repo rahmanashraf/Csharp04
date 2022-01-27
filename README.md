@@ -241,3 +241,53 @@ a) int tipli elə bir kolleksiya yaradın ki, içində bütün item-lər unique 
 b) Daha sonra içini müxtəlif ədədlərlə doldurun. (Console-dan)
 
 c) Nəticəni ekrana çap edin.
+
+
+
+<h1> Lesson-10 [26 yanvar 2022] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/struct-yoxsa-class-daha-s%C3%BCr%C9%99tlidir-3b65e91f4903">Struct</a>
+
+Tapsiriq.---------------------------------- <br/>
+Studnet class-i: 
+
+-No -   studentin nomresini ifade edir,her student ucun unikal olur ve her student 
+		yarandigi anda yaranan student bu vaxta qeder yaranmis necenci 
+		studentditrse nomresi o olur.
+	
+-Name - studentin adini ifade edir ve kostruktorda teleb olunur
+-Surname - studentin soyadini ifade edir ve konstruktorda teleb olunur
+
+Group class-i:
+- Name - qrupun adini ifade edir ve konstruktorda teleb olunur
+- No - qrupun nomresini ifade edir ve eyni ile studentneki kimi isleyir 
+               ve nomreleme ise 100-den baslayir (misalcun: ilk yaran qrupun nomresi 101 olur)
+-Students - Bu qrupa aid telebelerin saxlanildigi array-dir.Icerisindeki deyerler  <br/>
+                    yalnizca class daxilinde deyisdirile bilir,kenardan(instance uzerinden) 
+                    deyisiklik edile bilmir
+Capacity - qrupmda maksimum nece telebe ola biler ifade edir ve kenardan deyisdirile
+	           bilmemelidir vek ostruktorda teleb edelir;
+-AddStudent() - qrupa telebe elave etmek ucun metoddur.Eger elave olunacaq telebe  <br/>
+                        capacity-i asirsa userden bunun ucun icaze istesin (y/n kimi, y secilse
+                        elave etsin ve qrupun capacity-ini editlesin,n secse emeliyyati icra etmesin)
+                        
+Bunlar edildikden sonra yaranacaq yeni qruplarin ve studentlerin console penceresinden elave edilmesiin temin edin .
+Program run olduqda ekrana seciler gelsin  <br/>
+1- yeni telebe yarat <br/>
+2- yeni qrup yarat <br/>
+3- telebenin siyahisini goster <br/>
+4- qruplarin siyahisini goster           <br/>                                      
+5- qrupa telebe elave et <br/>
+6 -secilmis qrupdaki telebeleri goster <br/>
+7 - sistemden cix <br/>
+
+1-ci proses secilerse sisten sizden ad ve soyad yazmagiin teleb edir ve elave etdikden sonra sizden yeniden  <br/>
+2-ci proses secilerse qrupun adini ve capacity yazmaginizi teleb edir <br/>
+3-cu proses secilerse var olan butun teleberin nomrelerini adlarini ve siyadlarini yazdirir (4.Hikmet Qafarov seklinde her biri) <br/>
+4-cu proses secildikde var olan butun qruplari gosterir (1. P216 kimi her biri)  <br/> <br/>
+5-ci proses secilerse sisten bir qrup nomresi ve telebe nomresi daxil etmeyinizi isteyir ve ona uygun olaraq secilmis qrupa secilmis  <br/>
+     telebeni elave edir EGER TELEBE BASQA QRUPDA ELAVE EDILMEYIBSE
+6-ci proses secilerse sistem qrup nomresi daxil etmeyini isteyir ve daxil etdikde hemin qrupdaki telebelerin siyahisini <br/>
+     gosterir (3-cu prosesde gosterdiyi yazi formasinda)
+ - Bu 6 prosesden hansi secilerse secilsin proses bitdikden sonra sistem yeniden 7 secimden birini secmeyinizi isteyir  <br/>
+7-ci proses secildikde programdan cixin
