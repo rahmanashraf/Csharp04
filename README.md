@@ -291,3 +291,11 @@ Program run olduqda ekrana seciler gelsin  <br/>
      gosterir (3-cu prosesde gosterdiyi yazi formasinda)
  - Bu 6 prosesden hansi secilerse secilsin proses bitdikden sonra sistem yeniden 7 secimden birini secmeyinizi isteyir  <br/>
 7-ci proses secildikde programdan cixin
+
+
+<h1> Lesson-11 [29 yanvar 2022] </h1>
+<hr>
+<a href="https://minafrzli.medium.com/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP AZE </a>
+<a href="https://metanit.com/sharp/tutorial/3.7.php">OOP (rus) </a>
+<a href="https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/#:~:text=C%23%20is%20an%20object%20oriented,%2C%20data%20hiding%2C%20and%20inheritance.&text=All%20OOP%20languages%20provide%20mechanisms,%2C%20inheritance%2C%20polymorphism%20and%20reusability."> OOP eng</a>
+	
