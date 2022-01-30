@@ -295,7 +295,7 @@ Program run olduqda ekrana seciler gelsin  <br/>
 
 <h1> Lesson-11 [29 yanvar 2022] </h1>
 <hr>
-<a href="https://minafrzli.medium.com/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP AZE </a>
-<a href="https://metanit.com/sharp/tutorial/3.7.php">OOP (rus) </a>
-<a href="https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/#:~:text=C%23%20is%20an%20object%20oriented,%2C%20data%20hiding%2C%20and%20inheritance.&text=All%20OOP%20languages%20provide%20mechanisms,%2C%20inheritance%2C%20polymorphism%20and%20reusability."> OOP eng</a>
+<a href="https://minafrzli.medium.com/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP AZE </a><br/>
+<a href="https://metanit.com/sharp/tutorial/3.7.php">OOP (rus) </a><br/>
+<a href="https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/#:~:text=C%23%20is%20an%20object%20oriented,%2C%20data%20hiding%2C%20and%20inheritance.&text=All%20OOP%20languages%20provide%20mechanisms,%2C%20inheritance%2C%20polymorphism%20and%20reusability."> OOP eng</a><br/>
 	
