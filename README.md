@@ -295,7 +295,22 @@ Program run olduqda ekrana seciler gelsin  <br/>
 
 <h1> Lesson-11 [29 yanvar 2022] </h1>
 <hr>
+Oxumali movzular <br>
 <a href="https://minafrzli.medium.com/c-oopnin-3-%C9%99sas-prinsipi-c3c396a7eb13">OOP AZE </a><br/>
 <a href="https://metanit.com/sharp/tutorial/3.7.php">OOP (rus) </a><br/>
 <a href="https://www.c-sharpcorner.com/UploadFile/84c85b/object-oriented-programming-using-C-Sharp-net/#:~:text=C%23%20is%20an%20object%20oriented,%2C%20data%20hiding%2C%20and%20inheritance.&text=All%20OOP%20languages%20provide%20mechanisms,%2C%20inheritance%2C%20polymorphism%20and%20reusability."> OOP eng</a><br/>
-	
+Task 
+Asagidaki metodlari olan Account abstract classi yaradirsiniz <br/>
+- PasswordChecker() - parameter oalraq string sifreni qebul edir (abstract metod)  <br/>
+- ShowInfo() - virtual metod <br/>
+     
+Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verirsiniz: 
+- Fullname 
+- Email 
+- Password 
+- PasswordChecker() - PasswordChecker metodu - gelen string sifre deyerinin sertleri odeyib odemediyini yoxlayib true/false deyer qaytarir. 
+Şertler:
+- sifrede minimum 8 character olmalidir
+- sifreki buutun herfler boyuk olmamalidir
+- sifredeki butun herfler kicik olmamalidir    (yeni sifrede hem boyuk hem kicik herf olmalidir) 
+- ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir <br/>
