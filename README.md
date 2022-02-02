@@ -314,3 +314,16 @@ Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verir
 - sifreki buutun herfler boyuk olmamalidir
 - sifredeki butun herfler kicik olmamalidir    (yeni sifrede hem boyuk hem kicik herf olmalidir) 
 - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir <br/>
+
+
+<h1> Lesson-12 [2 fevral 2022] </h1>
+<hr>
+
+1. Asagidaki parametrlerden ibaret Vehicle class-i yaradirsiniz
+    - Color
+    - Brand
+    - Millage - bu vaxta qeder getmis oldugu mesafeni ifade edir (km olaraq)
+    - ShowInfo() - bu metod virtualdir ve console-a brand,color ve millage yazdirir
+    - Drive() - parameter olaraq kesirli eded qebul edir (km-i ifade etmek ucun), abstract bir metoddur
+    
+    Car ve Bycle claslari yaradirsiniz, her bir class-a Vehicle classini miras verirsiniz.Carin elave olaraq FuelCapacity,CurrentFuel,FuelFor1km fieldleri var.Drive metodu car uzerinde istifade olunduqda birinci var lan benzin miqdari ile bu mesfeninin gedilib gedile bilmeyeceyi yoxlanmalidir, daha sonra eger gedirle bilerse benzin azalmali ve millage artmalidir.Bycle classinda ise Drive olunduqda millage artmalidir
