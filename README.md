@@ -314,9 +314,12 @@ Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verir
 - ShowInfo() - bu metod Console-a user-in Fullanem ve email-inin yazdirir <br/>
 
 
-<h1> Lesson-12 [2 fevral 2022] </h1>
+<h1> Lesson-12 [2 fevral 2022] Dersde</h1>
 <hr>
+<a href="https://gurolayanlar.com/c-charp-polymorphism-nedir/">polymorphism</a> <br>
+Quize hazirliq <br>
 
+Sinif taski <br>
 1. Asagidaki parametrlerden ibaret Vehicle class-i yaradirsiniz
     - Color
     - Brand
@@ -325,3 +328,28 @@ Asagidaki memberlerden ibaret User class-i yaradirsiniz ve Account-u miras verir
     - Drive() - parameter olaraq kesirli eded qebul edir (km-i ifade etmek ucun), abstract bir metoddur
     
     Car ve Bycle claslari yaradirsiniz, her bir class-a Vehicle classini miras verirsiniz.Carin elave olaraq FuelCapacity,CurrentFuel,FuelFor1km fieldleri var.Drive metodu car uzerinde istifade olunduqda birinci var lan benzin miqdari ile bu mesfeninin gedilib gedile bilmeyeceyi yoxlanmalidir, daha sonra eger gedirle bilerse benzin azalmali ve millage artmalidir.Bycle classinda ise Drive olunduqda millage artmalidir
+    
+Ev taski <br>
+1.CurrencyType enumi - Bu enum cerrency value-lari saxlayir (USD,EUR ve TL)
+
+ValutaExchanger static class
+
+Exchange() - parameter olaraq valyuta (CurrencyType) ve meblegi (double)
+
+Curencies - icinde currency ve meblegini tutan collection (key value mentiqinde, key olaraq currencyType, value olaraq double)
+
+Main hissesinde bu metodlar bir nece enchage heyata kecirin, o emeliyyatlar ucun gotureceyiniz deyerleri console-dan qebul edin
+
+2.CashRegister (magazalardaki kassa aparati) classi yaradirziniz Bu class-in TotalAmount,Currency,TotalSalesCount xususiyyetleri ve AddNewSale ve RemoveSale metodlari olsun
+
+TotalAmount - kassa aparatinin kassasindaki pulun miqdarini ifade edir. Bu deyer kassa obyekti yaradildigi zaman mecburi olaraq daxil edilmeli ve daha sonradan yalnizca yeni satis elave edildikde ve ya silindikde avtomatik olaraq deyismelidir.
+
+Currency - kassa aparatinin istifade etdiyi valyutani bildirir. Currency ucun enum yaradin ve bu memberi typi olaraq da hemin enumdan istidafe edin
+
+PaymentType - satisin odenis novunu ifade edir.Bu card ve ya cash ola biler (odenis novu ucun enum istifade edin)
+
+TotalSalesCount - bu deyer kassaya daxil edilmis satis emeliyyatlarinin sayini ifade edir. Ilkin oalraq 0-dir ver yalnizca Yeni satis daxil edildikde ve ya silindikde deyisir
+
+AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmoun-a elave edilmelidir
+
+RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
