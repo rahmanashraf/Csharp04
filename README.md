@@ -5,7 +5,6 @@
  - [Rahman Ashrafov](https://github.com/rahmanashraf/PragmatechCsharpProject)
  - [Aysel Mustafayeva](https://github.com/AyselMustafayeva/PragmatechCsharpProject.git)
  - [Elmar Memmedov](https://github.com/elmar049/PragmatechCsharpProject)
- - [Ravi Hemidov](https://github.com/RaviHamidov/PragmatechCsharpProject)
  - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
  
