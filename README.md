@@ -7,6 +7,7 @@
  - [Elmar Memmedov](https://github.com/elmar049/PragmatechCsharpProject)
  - [Nurlan Heseliyev](https://github.com/NurlanHeseliyev/PragmatechCsharpProject)
  - [Vesile Hesenova](https://github.com/vasila98/PragmatechCsharpProject)
+ - [Rovsen Baxsiyev]
  
 <h1> Mənbələr </h1>
 <a href="https://www.tutorialspoint.com/csharp/index.htm">tutorialspoint</a> <br>
