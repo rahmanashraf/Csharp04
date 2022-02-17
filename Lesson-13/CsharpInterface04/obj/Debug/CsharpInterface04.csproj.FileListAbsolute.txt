@@ -1,0 +1,6 @@
+C:\Users\Mina\source\repos\CsharpInterface04\bin\Debug\CsharpInterface04.exe.config
+C:\Users\Mina\source\repos\CsharpInterface04\bin\Debug\CsharpInterface04.exe
+C:\Users\Mina\source\repos\CsharpInterface04\bin\Debug\CsharpInterface04.pdb
+C:\Users\Mina\source\repos\CsharpInterface04\obj\Debug\CsharpInterface04.csprojAssemblyReference.cache
+C:\Users\Mina\source\repos\CsharpInterface04\obj\Debug\CsharpInterface04.exe
+C:\Users\Mina\source\repos\CsharpInterface04\obj\Debug\CsharpInterface04.pdb
