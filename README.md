@@ -355,7 +355,7 @@ AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr
 RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
 
 
-<h1> Lesson-13 [16 fevral 2022] Dersde</h1>
+<h1> Lesson-13 [16 fevral 2022]</h1>
 <hr>
 <h4>Oxumalı mövzular</h4>
  <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
