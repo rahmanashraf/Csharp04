@@ -353,3 +353,19 @@ TotalSalesCount - bu deyer kassaya daxil edilmis satis emeliyyatlarinin sayini i
 AddSale - bu metod kassa aparatina yeni BİR satis elave etmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmoun-a elave edilmelidir
 
 RemoveSale - bu metod kassa aparatina daxil edilmis BİR satisi silmek ucundur. Parametr olaraq satisin meblegini ve currency qebul edir.Gonderilmis currency parametr kimi gonderilmis meblegin valyutasini ifade edir ve eger gonderilen bu valyuta kassa obyetinin valyutasindan ferqlidirse (Classin Currency peopertisinden) gonderilen mebleg kassanin istifade etdiyi valyutaya cevrilib daha sonra totalAmount-dan cixilir
+
+
+<h1> Lesson-13 [16 fevral 2022] Dersde</h1>
+<hr>
+<h4>Oxumalı mövzular</h4>
+ <a href="https://minafrzli.medium.com/c-interface-a057b3ff3b42">C# Interface</a> <br>
+ <a href="https://www.tutorialsteacher.com/csharp/csharp-interface">C# Interface 2</a> <br>
+ 
+## Tapshiriq 1:
+
+IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. Rectangle, Circle, Triangle, Square bu interface-in methodlarini implement etsin.
+
+## Tapshiriq 2:
+
+ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
+
