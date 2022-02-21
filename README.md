@@ -369,3 +369,22 @@ IFigure interface yaratmaq, CalculateArea ve CalculatePerimeter method-u olsun. 
 
 ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene return type "double" olan ve parametrinde "params double[] numbers" method olsun. Bu 4 interface-i Calculator.cs class-inda her birini implement edin. Meselen: ISum interface-inde Sum() methodu olacaq ve arrayin butun elementlerini cemleyib qaytaracaq. Multiply - vurma, Difference -chixma, Divide - bolme. Sonda Program.cs-de Calculator.cs-i chagirib, verdiyiniz deyerlere uygun method chagirib neticeni gosterin.
 
+### Lesson-14 [19 Fevral 2022]
+
+#### Mövzular
+- References
+- exe vs dll
+- var vs dynamic
+- compile time vs run time
+- ildasm - il code viewer
+
+#### Görüləcək işlər
+
+- Bir solution daxilində iki fərqli namespace yaradın.(məs : a,b)
+- Hər namespace-də eyni adlı class və daxilində prop ve metodlar yaradın
+- a namespace daxilindəki class-ı b namespace-i daxilində istifadə edin.Burda  [internal access modifier](https://docs.microsoft.com/en-us/dotnet/csharp/language-reference/keywords/internal) araşdırma etməyiniz lazım olacaq.
+- namespace istifadə edə biləcəyiniz real bir app düşünüb onun planını bəsit şəkildə yazın. Tam bitirməyinizə ehtiyac yoxdur əsas olan namespace harda istifadə oluna bilər onu anlamağınızdır.
+- Mən niyə namespace daxilində class,interface enum yarada bilirəm amma field,method yarada bilmirəm.Bunun məntiqi nə ola bilər? Araşdırın növbəti dərsdə müzakirə edəcəyik.
+- Bəsit bir winform yaradın [Bu linkdən ](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022) faydalana bilərsiniz.
+- Winformda GUI istifadə edərək button yaradın.Bənzər işi GUİ istifadə etmədən yaradın və hansının daha əlverişli olduğunu analiz edin.
+- 
