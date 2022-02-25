@@ -387,4 +387,8 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
 - Mən niyə namespace daxilində class,interface enum yarada bilirəm amma field,method yarada bilmirəm.Bunun məntiqi nə ola bilər? Araşdırın növbəti dərsdə müzakirə edəcəyik.
 - Bəsit bir winform yaradın [Bu linkdən ](https://docs.microsoft.com/en-us/visualstudio/ide/create-csharp-winform-visual-studio?view=vs-2022) faydalana bilərsiniz.
 - Winformda GUI istifadə edərək button yaradın.Bənzər işi GUİ istifadə etmədən yaradın və hansının daha əlverişli olduğunu analiz edin.
-- 
+
+
+#### Ders Recordu
+
+- [19 Fevral 2022](https://drive.google.com/file/d/1aUMvvGPGlU9hKVauVqwmdBHhtA4x5-vC/view?usp=sharing)
