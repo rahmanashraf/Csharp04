@@ -392,3 +392,62 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
 #### Ders Recordu
 
 - [19 Fevral 2022](https://drive.google.com/file/d/1aUMvvGPGlU9hKVauVqwmdBHhtA4x5-vC/view?usp=sharing)
+
+### Lesson-16-17 [26-27 Fevral 2022]
+
+#### Mövzular
+
+- Winform
+    - Toolbox vs native code
+    - Form elementləri ilə işləmək
+    - Basic event məntiginə giriş
+- Core Mövzular
+    - Anonymous Methods
+    - lambda expression
+    - delegate
+
+#### Görüləcək işlər
+1. Bu həftənin hədəfi bəsit müştəri idarə etmə sistemidir.Tələblər aşağıda qeyd olunub
+    - Iki tip istifadəçimiz var
+        - Müstəri 
+        - İdarəçi
+    - Müştəri üçün tələblər
+        - Qeydiyyatdan keçir
+            - ad
+            - soyad
+            - email
+            - id (random generate olunmalıdır)
+            - tarix (qeydiyyatdan keçdiyi gün-ay-il )
+        - Password aftamatik generate olunur və müştəriyə göstərilir
+            - Minimum 8 xarakter olmalıdır
+            - daxilində bir böyük hərf və bir rəqəm olma şərti var
+        - Müştəri login olur.
+            - email
+            - password
+        - Profil pəncərəsi açılır
+            - Müştəri profildə sadəcə email və passwordunu dəyişə bilər
+            - Müştəri öz hesabını silə bilər
+    - İdarəçi üçün tələblər
+        - Müştəri ilə eyni login ekranından daxil olur
+        - demo@example.com və demo login məlumatlarıdır
+        - Bütün müştəriləri görə bilir
+        - Müştəriləri silə bilir
+        - Müştəri məlumatlarını dəyişdirə bilməz
+        - delegate istifadə edərək müştəri bazası üzərində aşağıdakı sorğuları apara bilir
+
+            - müştəriləri ad,soyad və tarixə görə sıralaya bilir 
+            - ada görə axtarış edə bilir
+            - son ayda geydiyyatdan keçənləri görə bilir
+            - son həftədə geydiyyatdan keçənləri görə bilir
+            - iki tarix arasında qeydiyyatdan keçənləri görə bilir
+
+#### Ehtiyac duya biləcəyiniz qaynaqlar
+- [Using datagridview](https://www.youtube.com/watch?v=GyLlpBZGsrE&ab_channel=ProgrammersNerds)
+- [Anonymous Method](https://www.geeksforgeeks.org/anonymous-method-in-c-sharp/)
+- [Lambda expression](https://www.youtube.com/watch?v=KRjeu9Thp3s&ab_channel=JamieKing)
+- [Delegate and built in delegates](https://www.youtube.com/watch?v=R8Blt5c-Vi4&ab_channel=IAmTimCorey)
+
+#### Ders recordları
+- [26 Fevral 2022](https://us02web.zoom.us/rec/share/TpcxpVgv1Hq8m7bjLiDVl-0s3JN0LrSaGd4sD8sFoePgBJMhBacSoUhTnTVI0qeT.SHaNvHGyUW53uAyX)
+- [27 Fevral 2022](https://us02web.zoom.us/rec/share/P72N5E1hNNwPyX4HKpVLfkuki17keCoIRJhDVIuIOF7L-foDtkTjPWVvluu8W0Og.Q1Danit087m9fXRT)
+    

@@ -1,0 +1,14 @@
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.exe
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.deps.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.runtimeconfig.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.dll
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\bin\Debug\netcoreapp3.1\LambdaAndDelegate.pdb
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.AssemblyInfo.cs
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.dll
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.pdb
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\Lamda\LambdaAndDelegate\LambdaAndDelegate\obj\Debug\netcoreapp3.1\LambdaAndDelegate.genruntimeconfig.cache

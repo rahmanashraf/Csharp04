@@ -1,0 +1,17 @@
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.exe
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.deps.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.runtimeconfig.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.runtimeconfig.dev.json
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.dll
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\bin\Debug\netcoreapp3.1\LoginRegister.pdb
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.csproj.AssemblyReference.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.Views.User.Login.resources
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.Views.User.Register.resources
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.csproj.GenerateResource.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.AssemblyInfoInputs.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.AssemblyInfo.cs
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.dll
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.pdb
+C:\Users\Asus\Documents\Pragmatech\Groups\Csharp04\LambdaAndDelegates\LoginRegister\LoginRegister\obj\Debug\netcoreapp3.1\LoginRegister.genruntimeconfig.cache
