@@ -449,5 +449,5 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
 
 #### Ders recordları
 - [26 Fevral 2022](https://us02web.zoom.us/rec/share/TpcxpVgv1Hq8m7bjLiDVl-0s3JN0LrSaGd4sD8sFoePgBJMhBacSoUhTnTVI0qeT.SHaNvHGyUW53uAyX)
-- [27 Fevral 2022](https://us02web.zoom.us/rec/share/P72N5E1hNNwPyX4HKpVLfkuki17keCoIRJhDVIuIOF7L-foDtkTjPWVvluu8W0Og.Q1Danit087m9fXRT)
+- [27 Fevral 2022](https://us02web.zoom.us/rec/share/yc4lmE53-ILDNfskk5Lh0lUCm53byvPGBpUTXGL5avyo7WwD1j5pfCWeHeqBDutg.zD-Og0d84MDcUrFF)
     
