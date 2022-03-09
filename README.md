@@ -451,3 +451,36 @@ ISum, IMultiply, IDifference, IDivide interface-leri olsun her birinde bir dene 
 - [26 Fevral 2022](https://us02web.zoom.us/rec/share/TpcxpVgv1Hq8m7bjLiDVl-0s3JN0LrSaGd4sD8sFoePgBJMhBacSoUhTnTVI0qeT.SHaNvHGyUW53uAyX)
 - [27 Fevral 2022](https://us02web.zoom.us/rec/share/yc4lmE53-ILDNfskk5Lh0lUCm53byvPGBpUTXGL5avyo7WwD1j5pfCWeHeqBDutg.zD-Og0d84MDcUrFF)
     
+
+### 5 Mart 2022
+
+- Mövzular
+    - SQL introduction
+        - Basic DDL commands
+        - Basic DML commands
+- Ders recordu
+    - [5 Mart 2022](https://us02web.zoom.us/rec/share/POo-mInTdc0IEx4JHgc7DgbQEUAds_N2LJT6YNjs7t56avfktzpcoDFSZkoQ600.HqLrCYvG8FGFvwVe)
+
+### 7 Mart 2022
+
+- Mini Satış Programı
+    - Customer
+        - Id
+        - Name
+        - Email
+    - Products
+        - Id
+        - Name
+        - Price
+    - Orders
+        - Id
+        - Product
+        - Customer
+        - OrderDate
+    - Sales
+        - ID
+        - Order
+        - SaleDate
+
+- Ders recordu
+    - [7 Mart 2022](https://us02web.zoom.us/rec/share/yNtR1Mzjdc_hHOKwHQ_ayuibBdxaGDmLt3w5PVyyPKzGPX8ij7Qr-UCYRc0tz95N.JOenLXcZrpJD3_LJ)
